@@ -23,7 +23,7 @@ The project is built using the following technologies:
 
 To run the project locally, follow these steps:
 
-1. Clone the repository: `git clone <repository_url>`
+1. Clone the repository: `git clone https://github.com/rajendrasarak90/Spin-Wheel-Assignment.git`
 2. Open the `index.html` file in a web browser.
 3. Click on the "Spin Now!" button to spin the wheel.
 4. On the first spin, the application will display a "Try Again" message.
